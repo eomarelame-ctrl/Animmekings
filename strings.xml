@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Anime KINGS</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_movies">أفلام</string>
+    <string name="nav_series">مسلسلات</string>
+    <string name="nav_downloads">التنزيلات</string>
+    <string name="nav_favorites">المفضلة</string>
+    <string name="nav_account">حسابي</string>
+    <string name="continue_watching">متابعة المشاهدة</string>
+    <string name="most_popular">الأكثر شعبية</string>
+    <string name="search_hint">ابحث عن أنمي…</string>
+    <string name="empty_continue_watching">لا توجد مشاهدات حالية بعد</string>
+    <string name="empty_favorites">لم تقم بإضافة أي مفضلة بعد</string>
+    <string name="empty_downloads">لا توجد تنزيلات محفوظة</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup">إنشاء حساب</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="display_name">الاسم</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="reset_password_title">إعادة تعيين كلمة المرور</string>
+    <string name="send_reset_link">إرسال رابط إعادة التعيين</string>
+    <string name="back_to_login">العودة لتسجيل الدخول</string>
+    <string name="no_account_yet">ليس لديك حساب؟ أنشئ واحدًا</string>
+    <string name="have_account">لديك حساب؟ سجّل الدخول</string>
+    <string name="passwords_dont_match">كلمتا المرور غير متطابقتين</string>
+    <string name="role_user">مستخدم</string>
+    <string name="role_admin">مسؤول</string>
+    <string name="save">حفظ</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+</resources>
